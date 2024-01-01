@@ -1,0 +1,2 @@
+andres;12345;Andres;andrese.avilap@utadeo.edu.co;3153234604;calle 55 n78-73
+cristian;12345;Cristian;cristianm.castrol@utadeo.edu.co;3153234604;calle 55 n78-73
